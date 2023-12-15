@@ -52,14 +52,7 @@
         "month": "12/1/2023",
         "time": "12:15:00 AM",
         "links": [
-          {
-            "name": "Link 1",
-            "url": "match2_link1_url"
-          },
-          {
-            "name": "Link 2",
-            "url": "match2_link2_url"
-          }
+         
         ]
       },
       {
@@ -162,14 +155,7 @@
         "month": "12/1/2023",
         "time": "12:15:00 AM",
         "links": [
-          {
-            "name": "Link 1",
-            "url": "match7_link1_url"
-          },
-          {
-            "name": "Link 2",
-            "url": "match7_link2_url"
-          }
+        
         ]
       },
       {
@@ -316,14 +302,7 @@
         "month": "12/1/2023",
         "time": "2:30:00 AM",
         "links": [
-          {
-            "name": "Link 1",
-            "url": "match14_link1_url"
-          },
-          {
-            "name": "Link 2",
-            "url": "match14_link2_url"
-          }
+       
         ]
       },
       {
