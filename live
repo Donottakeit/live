@@ -67,14 +67,7 @@
         "month": "12/1/2023",
         "time": "12:15:00 AM",
         "links": [
-          {
-            "name": "Link 1",
-            "url": "match3_link1_url"
-          },
-          {
-            "name": "Link 2",
-            "url": "match3_link2_url"
-          }
+        
         ]
       },
       {
